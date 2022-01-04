@@ -32,6 +32,9 @@ Adjust various settings, using url parameters
 #### Controlling offline mode
 > playsubapp://set?offlinemode=on<br>playsubapp://set?offlinemode=off
 
+#### Setting a sleep timer, minutes or end of track (Since version 2022.1)
+> playsubapp://set?sleeptimer=endoftrack<br>playsubapp://set?sleeptimer=15<br>playsubapp://set?sleeptimer=off
+
 
 ### playsubapp://server
 Switching server
